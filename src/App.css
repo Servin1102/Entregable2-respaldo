@@ -1,0 +1,45 @@
+*{
+  font-family: 'Merriweather', serif;
+}
+
+body{
+background-color: #282c34;  
+}
+.App {
+  text-align: center;
+}
+
+.bg-card{
+
+  background-color: rgba(135, 206, 250 ) ;
+  margin: auto;
+  padding: auto;
+  width: 500px;
+  height: 500px;
+  border-radius: 10px;
+}
+
+h2{
+  font-weight: bold;
+}
+.icon{
+  justify-content: center;
+  color: blueviolet;
+  width: 250px;
+  position: absolute;
+  bottom: 150px;
+  right: 240px;
+}
+
+h3{
+  justify-content: center;
+}
+
+.btn-weather{
+  opacity: 0.5;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  width: 90px;
+  border: none;
+}
